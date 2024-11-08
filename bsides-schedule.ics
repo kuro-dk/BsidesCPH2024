@@ -18,7 +18,7 @@ DTSTAMP:20241109T090000Z
 DTSTART:20241109T090000Z
 DTEND:20241109T095000Z
 SUMMARY:Compromising Entra ID from the on-premises Active Directory in hybrid environments
-DESCRIPTION:Speaker: Valdemar Carøe\nLevel: Advanced (300) - Technical
+DESCRIPTION:Speaker: Valdemar Carøe\nLevel: Advanced (300) - Technical\n\nEver more companies are getting acquainted with the cloud\, and Entra ID (previously Azure AD) is gaining traction as an alternative to hosting on-premises Active Directory environments. In many cases\, companies are not ready to make a definitive jump from on-premises to the cloud\, so they opt-in for a hybrid setup\, in which both the on-premises Active Directory and the cloud-based Entra ID are intertwined.\n\nAs red teamers and penetration testers\, it is our duty to keep up with the ever-evolving market of technologies\, but unfortunately\, techniques and procedures for compromising an Entra ID environment (in a hybrid setup) are scarce and often poorly documented.\n\nIn this talk\, I will shed light on how the on-premises Active Directory environment in a hybrid setup can often lead to a compromise of the Entra ID cloud environment.\n\nI will demonstrate various Entra ID misconfigurations and attacks that I have personally seen and used in real engagements.
 LOCATION:Track 1 - Aud 1
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20241109T090000Z
 DTSTART:20241109T090000Z
 DTEND:20241109T095000Z
 SUMMARY:DEFENDING AZURE: A BLUETEAMERS PERSPECTIVE
-DESCRIPTION:Speaker: Kristian Jacobsen\nLevel: Intermediate (200) - Technical
+DESCRIPTION:Speaker: Kristian Jacobsen\nLevel: Intermediate (200) - Technical\n\nAs organizations increasingly migrate to cloud environments\, effective logging\, monitoring\, and security alerting become critical components of a robust security strategy.\n\nThis presentation will focus on defending Microsoft Azure from a security perspective\, providing insights into the unique challenges and solutions for protecting cloud infrastructure.\n\nAttendees will learn about the attack surface of Azure\, the importance of strategic logging and monitoring illustrated with real-life incident response examples.
 LOCATION:Track 2 - Aud 0
 END:VEVENT
 BEGIN:VEVENT
